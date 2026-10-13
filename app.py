@@ -17,7 +17,7 @@ if uploaded_file and question:
     try:
         with st.spinner("Reading file..."):
             df = load_data(uploaded_file)
-
+            df.columns = [str(c) for c in df.columns]
         st.success(f"Loaded {len(df)} rows and {len(df.columns)} columns")
 
         st.write("### Data Preview")
