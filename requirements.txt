@@ -6,3 +6,4 @@ pandas>=1.5.0
 openpyxl
 python-dotenv
 streamlit>=1.30.0
+numbers-parser
