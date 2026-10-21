@@ -11,7 +11,13 @@ with the matching rows from your file. No coding needed.
 > upload it to the live app, and ask one of the questions below.
 
 <!-- Add a screenshot of the app here, e.g.: -->
-<!-- ![App screenshot](docs/screenshot.png) -->
+
+![firstQuestion](/Users/devanshukumar/Desktop/firstQuestion.png)
+![firstQuestion](/Users/devanshukumar/Desktop/FirstQuestion1.png)
+![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion.png)
+![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion1.png)
+![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion2.png)
+
 
 ## Example questions
 
