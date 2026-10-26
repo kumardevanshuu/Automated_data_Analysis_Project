@@ -11,12 +11,16 @@ with the matching rows from your file. No coding needed.
 > upload it to the live app, and ask one of the questions below.
 
 <!-- Add a screenshot of the app here, e.g.: -->
+<img width="1280" height="832" alt="firstQuestion" src="https://github.com/user-attachments/assets/8aa4c401-5076-4d2c-a5ae-0c6289b67c6d" />
+<img width="1280" height="832" alt="FirstQuestion1" src="https://github.com/user-attachments/assets/cc6b792a-2e73-441a-ac8e-ef47e0c2f1cd" />
+<img width="1280" height="832" alt="SecondQuestion" src="https://github.com/user-attachments/assets/8ff9732d-19de-45a9-8e16-a68aad1aa276" />
+<img width="1280" height="832" alt="SecondQuestion1" src="https://github.com/user-attachments/assets/c2086f95-fc74-4342-9af5-b405f91ea764" />
+<img width="1280" height="832" alt="SecondQuestion2" src="https://github.com/user-attachments/assets/4c8bc617-6aaf-4fd4-8f0e-2c5ce2676967" />
 
-![firstQuestion](/Users/devanshukumar/Desktop/firstQuestion.png)
-![firstQuestion](/Users/devanshukumar/Desktop/FirstQuestion1.png)
-![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion.png)
-![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion1.png)
-![SecondQuestion](/Users/devanshukumar/Desktop/SecondQuestion2.png)
+
+
+
+
 
 
 ## Example questions
